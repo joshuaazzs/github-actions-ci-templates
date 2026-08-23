@@ -1,2 +1,3 @@
-# github-actions-ci-templates
-Reusable GitHub Actions CI/CD workflows for Node, Python, and Go.
+# GitHub Actions CI Templates
+
+Standardized CI/CD workflow templates.
